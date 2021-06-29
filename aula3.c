@@ -1,5 +1,5 @@
-#include "stdio.h"
-int main(void) {
+//#include "stdio.h"
+//int main(void) {
 //exercicio 1
 /*
 printf("*************************\n");
@@ -99,7 +99,7 @@ printf("PAR\n");
 else
 printf("IMPAR\n");*/
  //exercicio 10
-float n1,n2,n3,r;
+/* float n1,n2,n3,r;
 printf("digite a nota 1\n");
 scanf("%f",&n1);
 printf("digite a nota 2\n");
@@ -111,5 +111,5 @@ if(r>=6.0)
 printf("aprovado\n");
 else
 printf("reprovado\n");
- return 0;
-}
+ return 0; 
+}*/
