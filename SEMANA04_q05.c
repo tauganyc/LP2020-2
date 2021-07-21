@@ -1,4 +1,4 @@
-/* #include <stdio.h>
+#include <stdio.h>
 int main(void){
 int a,b,c;
   scanf("%i %i %i",&a,&b,&c);
@@ -10,4 +10,4 @@ int a,b,c;
   printf("ISOSCELES\n");
   else
   printf("ESCALENO\n");
-return 0;} */
+return 0;}
