@@ -1,15 +1,13 @@
-/* #include <stdio.h>
- 
-int main() {
- 
-    int a,b,c,d;
-    scanf("%i %i",&a,&b);
-    c=a%b;
-    d=b%a;
-    if(c==1 || d==1)
-    printf("Nao sao Multiplos\n");
-    else
-    printf("Sao Multiplos\n");
- 
-    return 0;
-} */
+/*  #include <stdio.h>
+int main(void){
+int gabi,mig,vini;
+  scanf("%i %i %i",&gabi,&mig,&vini);
+  if (gabi==mig&&mig==vini&&vini==gabi)
+  printf("TENTE OUTRA VEZ\n");
+ else if(gabi==mig)
+ printf("Gabriela,Miguel\n");
+ else if(gabi==vini)
+ printf("Gabriela,Vinicius\n");
+ else if(mig==vini)
+ printf("Miguel,Vinicius\n");
+return 0;} */
